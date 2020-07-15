@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Conductor
+  - SongInfo
+  - Bar
+  - PlayerCanvas
+  - TrackCanvas
+  - BackgroundCanvas
+  - InputManager
+  - ForegroundCanvas
+  - PauseUI
+  - GameOverUI
+  - TileParent
+  - ResultsUI
+  - Slider
+  - StageBase
+  - Import
+  - Settings
+  - BeatmapWriter
+  - BeatmapReader
+  - Leaderboard
+  - LaneEffectsUI
+  - ComboBurst
+  - SceneManager
+  - NoteManager
+  - MessageUI
+  - ScoreDisplayUI
+  - NoteRecorder
+  - Score
+  - TutorialUI
+  - HitEffects
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1661594605
+    locked: 0
+  - name: Track
+    uniqueID: 2858777013
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Line
+    uniqueID: 1631137695
+    locked: 0
+  - name: UI
+    uniqueID: 188757145
+    locked: 0
+  - name: Effects
+    uniqueID: 3106475309
+    locked: 0
+  - name: Foreground
+    uniqueID: 2492049527
+    locked: 0
